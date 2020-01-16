@@ -1,0 +1,36 @@
+form {
+    background: blueviolet;
+    width: 300px;
+    height: auto;
+    padding: 5px;
+    border-radius: 5px;
+}
+h1 {
+    color: white;
+    margin: auto;
+    
+}
+.itemList {
+    width: 250px;
+    height: auto;
+    border-radius: 5px;
+   
+}
+
+
+.listItem li {
+    background: palevioletred;
+    color: white;
+    margin-bottom: 5px;
+    padding: 5px;
+}
+
+
+.close {
+    position: absolute;
+    left: 230px;
+    cursor: pointer;
+}
+.close:hover {
+    color: red;
+}
